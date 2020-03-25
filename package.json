@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/web-build-process/run.js",
-    "build": "node node_modules/web-build-process/build.js"
+    "start": "node node_modules/web-build-process/scripts/run.js",
+    "build": "node node_modules/web-build-process/scripts/build_only.js"
   },
   "repository": {
     "type": "git",
